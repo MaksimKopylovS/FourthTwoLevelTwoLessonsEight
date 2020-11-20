@@ -1,0 +1,916 @@
+2020-11-19 13:49:34 INFO  Server:45 - Server Start
+2020-11-19 15:24:19 INFO  Server:45 - Server Start
+2020-11-19 15:24:36 INFO  Network:53 - Клиент запущен
+2020-11-19 15:24:37 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0xd8178654, L:/127.0.0.1:8189 - R:/127.0.0.1:51197]) подключился
+2020-11-19 15:24:58 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@7506e95a 
+2020-11-19 15:24:58 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@a2544b4 
+2020-11-19 15:24:58 INFO  NetworkMessageHandler:68 - Полученное сообщение: NewFolder
+2020-11-19 15:24:58 INFO  NetworkMessageHandler:68 - Полученное сообщение: NewFolder
+2020-11-19 15:25:00 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@3ab41a94 
+2020-11-19 15:25:00 INFO  NetworkMessageHandler:68 - Полученное сообщение: NewFolder
+2020-11-19 15:25:12 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@54b77839 
+2020-11-19 15:25:13 INFO  MessageHandler:59 - Дериктория User1 существует
+2020-11-19 15:25:13 INFO  NetworkMessageHandler:59 - User Name: User1
+2020-11-19 15:25:27 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@100f6fc0 
+2020-11-19 15:25:27 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 15:25:27 INFO  NetworkMessageHandler:42 -  Пользователь в сети
+2020-11-19 15:25:27 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@32204ffd 
+2020-11-19 15:25:27 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 15:25:27 INFO  NetworkMessageHandler:42 -  Пользователь в сети
+2020-11-19 15:25:31 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@7acf4b2c 
+2020-11-19 15:25:31 INFO  NetworkMessageHandler:68 - Полученное сообщение: User1
+2020-11-19 15:25:32 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@5fe88428 
+2020-11-19 15:25:32 INFO  NetworkMessageHandler:68 - Полученное сообщение: User1
+2020-11-19 15:25:33 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@6f87678f 
+2020-11-19 15:25:33 INFO  NetworkMessageHandler:68 - Полученное сообщение: User1\c.jpg
+2020-11-19 15:25:33 INFO  NetworkMessageHandler:68 - Полученное сообщение: User1\NewFolder\m3.jpeg
+2020-11-19 15:25:33 INFO  NetworkMessageHandler:68 - Полученное сообщение: User1\NewFolder\test\newFile.txt
+2020-11-19 15:25:33 INFO  NetworkMessageHandler:68 - Полученное сообщение: User1\NewFolder\test.txt
+2020-11-19 15:25:33 INFO  NetworkMessageHandler:68 - Полученное сообщение: User1\NewFolder\texr.txt
+2020-11-19 15:25:33 INFO  NetworkMessageHandler:68 - Полученное сообщение: User1\s.jpg
+2020-11-19 15:25:33 INFO  NetworkMessageHandler:68 - Полученное сообщение: User1\test.txt
+2020-11-19 15:25:33 INFO  NetworkMessageHandler:68 - Полученное сообщение: User1\u1.jpg
+2020-11-19 15:25:49 INFO  Network:53 - Клиент запущен
+2020-11-19 15:25:49 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0xf72c3c7b, L:/127.0.0.1:8189 - R:/127.0.0.1:51223]) подключился
+2020-11-19 15:26:06 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@28e32f55 
+2020-11-19 15:26:06 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 15:26:06 INFO  NetworkMessageHandler:42 -  Пользователь в сети
+2020-11-19 15:26:09 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@dce4b62 
+2020-11-19 15:26:09 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 15:26:09 INFO  NetworkMessageHandler:42 -  Пользователь в сети
+2020-11-19 15:26:09 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@719a83c 
+2020-11-19 15:26:09 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 15:26:09 INFO  NetworkMessageHandler:42 -  Пользователь в сети
+2020-11-19 15:26:09 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@6dceea44 
+2020-11-19 15:26:09 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 15:26:09 INFO  NetworkMessageHandler:42 -  Пользователь в сети
+2020-11-19 15:26:10 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@766ae2f9 
+2020-11-19 15:26:10 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 15:26:10 INFO  NetworkMessageHandler:42 -  Пользователь в сети
+2020-11-19 15:26:10 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@980320d 
+2020-11-19 15:26:10 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 15:26:10 INFO  NetworkMessageHandler:42 -  Пользователь в сети
+2020-11-19 15:26:18 INFO  ClientHandler:67 - Client User1 disconnected
+2020-11-19 15:26:23 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@43123349 
+2020-11-19 15:26:23 INFO  MessageHandler:59 - Дериктория User1 существует
+2020-11-19 15:26:23 INFO  NetworkMessageHandler:59 - User Name: User1
+2020-11-19 15:26:47 INFO  ClientHandler:67 - Client User1 disconnected
+2020-11-19 15:32:08 INFO  Network:53 - Клиент запущен
+2020-11-19 15:32:08 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0x42ba2940, L:/127.0.0.1:8189 - R:/127.0.0.1:51263]) подключился
+2020-11-19 15:32:16 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@56d3af4b 
+2020-11-19 15:32:16 INFO  MessageHandler:59 - Дериктория User1 существует
+2020-11-19 15:32:16 INFO  NetworkMessageHandler:59 - User Name: User1
+2020-11-19 15:32:28 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@11593fa8 
+2020-11-19 15:32:28 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 15:32:28 INFO  NetworkMessageHandler:42 -  Пользователь в сети
+2020-11-19 15:32:36 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@22889e1c 
+2020-11-19 15:32:36 INFO  ClientHandler:67 - Client User1 disconnected
+2020-11-19 15:32:51 INFO  Network:53 - Клиент запущен
+2020-11-19 15:32:51 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0x660aceba, L:/127.0.0.1:8189 - R:/127.0.0.1:51286]) подключился
+2020-11-19 15:32:53 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@70863472 
+2020-11-19 15:32:53 INFO  MessageHandler:74 - /auth  не существует
+2020-11-19 15:32:53 INFO  NetworkMessageHandler:42 -   не существует
+2020-11-19 15:33:02 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@3d8a7bfb 
+2020-11-19 15:33:02 INFO  MessageHandler:74 - /auth  не существует
+2020-11-19 15:33:02 INFO  NetworkMessageHandler:42 -   не существует
+2020-11-19 15:33:07 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@459f7368 
+2020-11-19 15:33:07 INFO  ClientHandler:67 - Client Клиента # 1 disconnected
+2020-11-19 15:34:23 INFO  Server:44 - Server Start
+2020-11-19 15:35:20 INFO  Network:53 - Клиент запущен
+2020-11-19 15:35:20 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0xfe2c40c4, L:/127.0.0.1:8189 - R:/127.0.0.1:51336]) подключился
+2020-11-19 15:35:36 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@6be4d812 
+2020-11-19 15:35:37 INFO  MessageHandler:59 - Дериктория User1 существует
+2020-11-19 15:35:37 INFO  NetworkMessageHandler:59 - User Name: User1
+2020-11-19 15:40:04 INFO  Network:53 - Клиент запущен
+2020-11-19 15:40:04 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0x18abf9cf, L:/127.0.0.1:8189 - R:/127.0.0.1:51372]) подключился
+2020-11-19 15:40:10 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@7291f894 
+2020-11-19 15:40:10 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 15:40:10 INFO  NetworkMessageHandler:42 -  Пользователь в сети
+2020-11-19 15:40:25 INFO  ClientHandler:67 - Client User1 disconnected
+2020-11-19 15:40:27 INFO  ClientHandler:67 - Client Клиента # 1 disconnected
+2020-11-19 15:40:33 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0x947f926e, L:/127.0.0.1:8189 - R:/127.0.0.1:51396]) подключился
+2020-11-19 15:40:33 INFO  Network:53 - Клиент запущен
+2020-11-19 15:40:40 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@5a554bf 
+2020-11-19 15:40:40 INFO  MessageHandler:59 - Дериктория User1 существует
+2020-11-19 15:40:40 INFO  NetworkMessageHandler:59 - User Name: User1
+2020-11-19 15:40:40 WARN  DefaultChannelPipeline:1152 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.IllegalStateException: Not on FX application thread; currentThread = nioEventLoopGroup-2-1
+	at com.sun.javafx.tk.Toolkit.checkFxUserThread(Toolkit.java:279)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.checkFxUserThread(QuantumToolkit.java:444)
+	at javafx.stage.Window.setShowing(Window.java:939)
+	at javafx.stage.Window.show(Window.java:955)
+	at javafx.stage.Stage.show(Stage.java:259)
+	at packageClient.NetworkMessageHandler.<init>(NetworkMessageHandler.java:60)
+	at packageClient.Network$1$1.channelRead(Network.java:45)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:321)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:295)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:714)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:576)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+2020-11-19 15:40:49 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@26e236f3 
+2020-11-19 15:40:49 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 15:40:50 INFO  NetworkMessageHandler:42 -  Пользователь в сети
+2020-11-19 15:40:53 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@712dca1b 
+2020-11-19 15:40:53 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 15:40:53 INFO  NetworkMessageHandler:42 -  Пользователь в сети
+2020-11-19 15:40:55 INFO  ClientHandler:67 - Client User1 disconnected
+2020-11-19 15:41:05 INFO  Network:53 - Клиент запущен
+2020-11-19 15:41:05 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0x1cbf5291, L:/127.0.0.1:8189 - R:/127.0.0.1:51419]) подключился
+2020-11-19 15:41:12 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@61510c2f 
+2020-11-19 15:41:12 INFO  MessageHandler:59 - Дериктория User1 существует
+2020-11-19 15:41:12 INFO  NetworkMessageHandler:59 - User Name: User1
+2020-11-19 15:41:12 WARN  DefaultChannelPipeline:1152 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.IllegalStateException: Not on FX application thread; currentThread = nioEventLoopGroup-2-1
+	at com.sun.javafx.tk.Toolkit.checkFxUserThread(Toolkit.java:279)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.checkFxUserThread(QuantumToolkit.java:444)
+	at javafx.stage.Window.setShowing(Window.java:939)
+	at javafx.stage.Window.show(Window.java:955)
+	at javafx.stage.Stage.show(Stage.java:259)
+	at packageClient.NetworkMessageHandler.<init>(NetworkMessageHandler.java:60)
+	at packageClient.Network$1$1.channelRead(Network.java:45)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:321)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:295)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:714)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:576)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+2020-11-19 15:41:24 INFO  ClientHandler:67 - Client User1 disconnected
+2020-11-19 15:46:14 INFO  Network:53 - Клиент запущен
+2020-11-19 15:46:14 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0x981ea242, L:/127.0.0.1:8189 - R:/127.0.0.1:51456]) подключился
+2020-11-19 15:46:21 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@642391c7 
+2020-11-19 15:46:21 INFO  MessageHandler:59 - Дериктория User1 существует
+2020-11-19 15:46:22 INFO  NetworkMessageHandler:59 - User Name: User1
+2020-11-19 15:46:22 WARN  DefaultChannelPipeline:1152 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.IllegalStateException: Not on FX application thread; currentThread = nioEventLoopGroup-2-1
+	at com.sun.javafx.tk.Toolkit.checkFxUserThread(Toolkit.java:279)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.checkFxUserThread(QuantumToolkit.java:444)
+	at javafx.stage.Window.setShowing(Window.java:939)
+	at javafx.stage.Window.show(Window.java:955)
+	at javafx.stage.Stage.show(Stage.java:259)
+	at packageClient.NetworkMessageHandler.<init>(NetworkMessageHandler.java:61)
+	at packageClient.Network$1$1.channelRead(Network.java:45)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:321)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:295)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:714)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:576)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+2020-11-19 15:46:29 INFO  ClientHandler:67 - Client User1 disconnected
+2020-11-19 15:47:36 INFO  Network:53 - Клиент запущен
+2020-11-19 15:47:36 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0x963b2550, L:/127.0.0.1:8189 - R:/127.0.0.1:51481]) подключился
+2020-11-19 15:47:43 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@3d16ba3b 
+2020-11-19 15:47:43 INFO  MessageHandler:59 - Дериктория User1 существует
+2020-11-19 15:47:43 INFO  NetworkMessageHandler:59 - User Name: User1
+2020-11-19 15:47:43 WARN  DefaultChannelPipeline:1152 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.IllegalStateException: Not on FX application thread; currentThread = nioEventLoopGroup-2-1
+	at com.sun.javafx.tk.Toolkit.checkFxUserThread(Toolkit.java:279)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.checkFxUserThread(QuantumToolkit.java:444)
+	at javafx.stage.Window.setShowing(Window.java:939)
+	at javafx.stage.Window.show(Window.java:955)
+	at javafx.stage.Stage.show(Stage.java:259)
+	at packageClient.NetworkMessageHandler.<init>(NetworkMessageHandler.java:61)
+	at packageClient.Network$1$1.channelRead(Network.java:45)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:321)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:295)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:714)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:576)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+2020-11-19 15:50:01 INFO  ClientHandler:67 - Client User1 disconnected
+2020-11-19 15:50:09 INFO  Network:53 - Клиент запущен
+2020-11-19 15:50:09 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0x79285d71, L:/127.0.0.1:8189 - R:/127.0.0.1:51510]) подключился
+2020-11-19 15:50:16 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@4c0f57 
+2020-11-19 15:50:16 INFO  MessageHandler:59 - Дериктория User1 существует
+2020-11-19 15:50:16 INFO  NetworkMessageHandler:59 - User Name: User1
+2020-11-19 15:50:21 INFO  ClientHandler:67 - Client User1 disconnected
+2020-11-19 15:57:03 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0x5c601293, L:/127.0.0.1:8189 - R:/127.0.0.1:51552]) подключился
+2020-11-19 15:57:03 INFO  Network:53 - Клиент запущен
+2020-11-19 15:57:11 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@44e2bde1 
+2020-11-19 15:57:11 INFO  MessageHandler:59 - Дериктория User1 существует
+2020-11-19 15:57:11 INFO  NetworkMessageHandler:59 - User Name: User1
+2020-11-19 15:57:18 INFO  ClientHandler:67 - Client User1 disconnected
+2020-11-19 15:57:29 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0xebc0baa2, L:/127.0.0.1:8189 - R:/127.0.0.1:51574]) подключился
+2020-11-19 15:57:29 INFO  Network:53 - Клиент запущен
+2020-11-19 15:57:32 INFO  ClientHandler:67 - Client Клиента # 1 disconnected
+2020-11-19 15:58:18 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0xf3c393be, L:/127.0.0.1:8189 - R:/127.0.0.1:51599]) подключился
+2020-11-19 15:58:18 INFO  Network:53 - Клиент запущен
+2020-11-19 15:58:25 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@57bc87ed 
+2020-11-19 15:58:25 INFO  MessageHandler:59 - Дериктория User1 существует
+2020-11-19 15:58:25 INFO  NetworkMessageHandler:59 - User Name: User1
+2020-11-19 15:58:28 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@2ef863ac 
+2020-11-19 15:58:28 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 15:58:29 INFO  NetworkMessageHandler:42 -  Пользователь в сети
+2020-11-19 15:58:29 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@60425cf2 
+2020-11-19 15:58:29 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 15:58:29 INFO  NetworkMessageHandler:42 -  Пользователь в сети
+2020-11-19 15:58:30 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@53f23cf8 
+2020-11-19 15:58:30 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 15:58:30 INFO  NetworkMessageHandler:42 -  Пользователь в сети
+2020-11-19 15:58:30 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@6d0bc4cf 
+2020-11-19 15:58:30 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 15:58:30 INFO  NetworkMessageHandler:42 -  Пользователь в сети
+2020-11-19 15:58:30 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@2fdc306a 
+2020-11-19 15:58:30 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 15:58:30 INFO  NetworkMessageHandler:42 -  Пользователь в сети
+2020-11-19 15:58:31 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@7f6ff8c0 
+2020-11-19 15:58:31 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 15:58:31 INFO  NetworkMessageHandler:42 -  Пользователь в сети
+2020-11-19 15:58:36 INFO  ClientHandler:67 - Client User1 disconnected
+2020-11-19 15:58:57 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0xf957d597, L:/127.0.0.1:8189 - R:/127.0.0.1:51623]) подключился
+2020-11-19 15:58:57 INFO  Network:53 - Клиент запущен
+2020-11-19 15:59:02 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@28c7a107 
+2020-11-19 15:59:02 INFO  MessageHandler:59 - Дериктория User1 существует
+2020-11-19 15:59:02 INFO  NetworkMessageHandler:59 - User Name: User1
+2020-11-19 15:59:02 WARN  DefaultChannelPipeline:1152 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.IllegalStateException: Not on FX application thread; currentThread = nioEventLoopGroup-2-1
+	at com.sun.javafx.tk.Toolkit.checkFxUserThread(Toolkit.java:279)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.checkFxUserThread(QuantumToolkit.java:444)
+	at javafx.stage.Window.setShowing(Window.java:939)
+	at javafx.stage.Window.show(Window.java:955)
+	at javafx.stage.Stage.show(Stage.java:259)
+	at packageClient.NetworkMessageHandler.<init>(NetworkMessageHandler.java:61)
+	at packageClient.Network$1$1.channelRead(Network.java:45)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:321)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:295)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:714)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:576)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+2020-11-19 15:59:10 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@4983be4d 
+2020-11-19 15:59:10 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 15:59:10 INFO  NetworkMessageHandler:42 -  Пользователь в сети
+2020-11-19 16:05:04 INFO  ClientHandler:67 - Client User1 disconnected
+2020-11-19 16:08:32 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0xd3872a99, L:/127.0.0.1:8189 - R:/127.0.0.1:51672]) подключился
+2020-11-19 16:08:32 INFO  Network:53 - Клиент запущен
+2020-11-19 16:08:39 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@447c712e 
+2020-11-19 16:08:39 INFO  MessageHandler:59 - Дериктория User1 существует
+2020-11-19 16:08:39 INFO  NetworkMessageHandler:63 - User Name: User1
+2020-11-19 16:08:39 WARN  DefaultChannelPipeline:1152 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.IllegalStateException: Not on FX application thread; currentThread = nioEventLoopGroup-2-1
+	at com.sun.javafx.tk.Toolkit.checkFxUserThread(Toolkit.java:279)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.checkFxUserThread(QuantumToolkit.java:444)
+	at javafx.stage.Window.setShowing(Window.java:939)
+	at javafx.stage.Window.show(Window.java:955)
+	at javafx.stage.Stage.show(Stage.java:259)
+	at packageClient.NetworkMessageHandler.<init>(NetworkMessageHandler.java:65)
+	at packageClient.Network$1$1.channelRead(Network.java:45)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:321)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:295)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:714)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:576)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+2020-11-19 16:08:47 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@3d9c60ae 
+2020-11-19 16:08:47 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 16:08:47 INFO  NetworkMessageHandler:46 -  Пользователь в сети
+2020-11-19 16:08:52 WARN  DefaultChannelPipeline:1152 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.io.IOException: Удаленный хост принудительно разорвал существующее подключение
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1133)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:714)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:576)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+2020-11-19 16:11:17 INFO  Server:44 - Server Start
+2020-11-19 16:11:27 INFO  Network:53 - Клиент запущен
+2020-11-19 16:11:27 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0xc8ee1102, L:/127.0.0.1:8189 - R:/127.0.0.1:51744]) подключился
+2020-11-19 16:11:36 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@58764553 
+2020-11-19 16:11:37 INFO  MessageHandler:59 - Дериктория User1 существует
+2020-11-19 16:11:37 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@1eb0307 
+2020-11-19 16:11:37 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 16:11:37 INFO  NetworkMessageHandler:63 - User Name: User1
+2020-11-19 16:11:37 WARN  DefaultChannelPipeline:1152 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.IllegalStateException: Not on FX application thread; currentThread = nioEventLoopGroup-2-1
+	at com.sun.javafx.tk.Toolkit.checkFxUserThread(Toolkit.java:279)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.checkFxUserThread(QuantumToolkit.java:444)
+	at javafx.stage.Window.setShowing(Window.java:939)
+	at javafx.stage.Window.show(Window.java:955)
+	at javafx.stage.Stage.show(Stage.java:259)
+	at packageClient.NetworkMessageHandler.<init>(NetworkMessageHandler.java:65)
+	at packageClient.Network$1$1.channelRead(Network.java:45)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:321)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:295)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:714)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:576)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+2020-11-19 16:11:37 INFO  NetworkMessageHandler:46 -  Пользователь в сети
+2020-11-19 16:12:32 INFO  ClientHandler:67 - Client User1 disconnected
+2020-11-19 16:12:46 INFO  Network:53 - Клиент запущен
+2020-11-19 16:12:46 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0x56dbe686, L:/127.0.0.1:8189 - R:/127.0.0.1:51770]) подключился
+2020-11-19 16:12:52 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@28e32f55 
+2020-11-19 16:12:52 INFO  MessageHandler:59 - Дериктория User1 существует
+2020-11-19 16:12:52 INFO  NetworkMessageHandler:63 - User Name: User1
+2020-11-19 16:12:52 WARN  DefaultChannelPipeline:1152 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.IllegalStateException: Not on FX application thread; currentThread = nioEventLoopGroup-2-1
+	at com.sun.javafx.tk.Toolkit.checkFxUserThread(Toolkit.java:279)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.checkFxUserThread(QuantumToolkit.java:444)
+	at javafx.stage.Window.setShowing(Window.java:939)
+	at javafx.stage.Window.show(Window.java:955)
+	at javafx.stage.Stage.show(Stage.java:259)
+	at packageClient.NetworkMessageHandler.<init>(NetworkMessageHandler.java:65)
+	at packageClient.Network$1$1.channelRead(Network.java:45)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:321)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:295)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:714)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:576)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+2020-11-19 16:13:09 INFO  ClientHandler:67 - Client User1 disconnected
+2020-11-19 16:18:10 INFO  Network:53 - Клиент запущен
+2020-11-19 16:18:10 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0x02323b89, L:/127.0.0.1:8189 - R:/127.0.0.1:51807]) подключился
+2020-11-19 16:18:18 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@5b535644 
+2020-11-19 16:18:18 INFO  MessageHandler:59 - Дериктория User1 существует
+2020-11-19 16:18:18 INFO  NetworkMessageHandler:63 - User Name: User1
+2020-11-19 16:18:18 WARN  DefaultChannelPipeline:1152 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.IllegalStateException: Not on FX application thread; currentThread = nioEventLoopGroup-2-1
+	at com.sun.javafx.tk.Toolkit.checkFxUserThread(Toolkit.java:279)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.checkFxUserThread(QuantumToolkit.java:444)
+	at javafx.stage.Window.setShowing(Window.java:939)
+	at javafx.stage.Window.show(Window.java:955)
+	at javafx.stage.Stage.show(Stage.java:259)
+	at packageClient.NetworkMessageHandler.<init>(NetworkMessageHandler.java:65)
+	at packageClient.Network$1$1.channelRead(Network.java:45)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:321)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:295)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:714)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:576)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+2020-11-19 16:37:16 INFO  ClientHandler:67 - Client User1 disconnected
+2020-11-19 16:37:23 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0x53273b9e, L:/127.0.0.1:8189 - R:/127.0.0.1:51885]) подключился
+2020-11-19 16:37:23 INFO  Network:53 - Клиент запущен
+2020-11-19 16:37:30 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@219e6805 
+2020-11-19 16:37:30 INFO  MessageHandler:59 - Дериктория User1 существует
+2020-11-19 16:37:30 INFO  NetworkMessageHandler:63 - User Name: User1
+2020-11-19 16:37:32 INFO  ClientHandler:67 - Client User1 disconnected
+2020-11-19 16:38:45 INFO  Network:53 - Клиент запущен
+2020-11-19 16:38:45 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0x63edfba7, L:/127.0.0.1:8189 - R:/127.0.0.1:51911]) подключился
+2020-11-19 16:38:51 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@61510c2f 
+2020-11-19 16:38:51 INFO  MessageHandler:59 - Дериктория User1 существует
+2020-11-19 16:38:51 INFO  NetworkMessageHandler:63 - User Name: User1
+2020-11-19 16:39:01 INFO  ClientHandler:67 - Client User1 disconnected
+2020-11-19 16:40:08 INFO  Network:53 - Клиент запущен
+2020-11-19 16:40:08 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0x62caf948, L:/127.0.0.1:8189 - R:/127.0.0.1:51937]) подключился
+2020-11-19 16:40:16 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@642391c7 
+2020-11-19 16:40:16 INFO  MessageHandler:59 - Дериктория User1 существует
+2020-11-19 16:40:16 INFO  NetworkMessageHandler:63 - User Name: User1
+2020-11-19 16:40:16 WARN  DefaultChannelPipeline:1152 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.IllegalStateException: Not on FX application thread; currentThread = nioEventLoopGroup-2-1
+	at com.sun.javafx.tk.Toolkit.checkFxUserThread(Toolkit.java:279)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.checkFxUserThread(QuantumToolkit.java:444)
+	at javafx.stage.Window.setShowing(Window.java:939)
+	at javafx.stage.Window.show(Window.java:955)
+	at javafx.stage.Stage.show(Stage.java:259)
+	at packageClient.NetworkMessageHandler.<init>(NetworkMessageHandler.java:66)
+	at packageClient.Network$1$1.channelRead(Network.java:45)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:321)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:295)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:714)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:576)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+2020-11-19 16:40:28 INFO  ClientHandler:67 - Client User1 disconnected
+2020-11-19 16:50:15 INFO  Network:53 - Клиент запущен
+2020-11-19 16:50:15 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0xa3cd9495, L:/127.0.0.1:8189 - R:/127.0.0.1:51988]) подключился
+2020-11-19 16:50:24 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@16a6f9ec 
+2020-11-19 16:50:24 INFO  MessageHandler:59 - Дериктория User1 существует
+2020-11-19 16:50:24 INFO  NetworkMessageHandler:62 - User Name: User1
+2020-11-19 16:50:24 WARN  DefaultChannelPipeline:1152 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.IllegalStateException: Not on FX application thread; currentThread = nioEventLoopGroup-2-1
+	at com.sun.javafx.tk.Toolkit.checkFxUserThread(Toolkit.java:279)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.checkFxUserThread(QuantumToolkit.java:444)
+	at javafx.stage.Window.setShowing(Window.java:939)
+	at javafx.stage.Window.show(Window.java:955)
+	at javafx.stage.Stage.show(Stage.java:259)
+	at packageClient.NetworkMessageHandler.<init>(NetworkMessageHandler.java:65)
+	at packageClient.Network$1$1.channelRead(Network.java:45)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:321)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:295)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:714)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:576)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+2020-11-19 16:50:25 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@3b06c7c6 
+2020-11-19 16:50:25 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 16:50:25 INFO  NetworkMessageHandler:45 -  Пользователь в сети
+2020-11-19 16:50:25 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@62bde586 
+2020-11-19 16:50:25 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 16:50:25 INFO  NetworkMessageHandler:45 -  Пользователь в сети
+2020-11-19 16:50:26 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@43f509a4 
+2020-11-19 16:50:26 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 16:50:26 INFO  NetworkMessageHandler:45 -  Пользователь в сети
+2020-11-19 16:50:26 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@338b8a13 
+2020-11-19 16:50:26 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 16:50:26 INFO  NetworkMessageHandler:45 -  Пользователь в сети
+2020-11-19 16:50:26 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@3ebe5353 
+2020-11-19 16:50:26 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 16:50:26 INFO  NetworkMessageHandler:45 -  Пользователь в сети
+2020-11-19 16:50:26 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@332200d7 
+2020-11-19 16:50:26 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 16:50:26 INFO  NetworkMessageHandler:45 -  Пользователь в сети
+2020-11-19 16:50:27 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@58f1873e 
+2020-11-19 16:50:27 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 16:50:27 INFO  NetworkMessageHandler:45 -  Пользователь в сети
+2020-11-19 16:50:27 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@37c55521 
+2020-11-19 16:50:27 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 16:50:27 INFO  NetworkMessageHandler:45 -  Пользователь в сети
+2020-11-19 16:50:27 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@7badbc41 
+2020-11-19 16:50:27 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 16:50:27 INFO  NetworkMessageHandler:45 -  Пользователь в сети
+2020-11-19 16:50:27 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@582a2f5b 
+2020-11-19 16:50:27 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 16:50:27 INFO  NetworkMessageHandler:45 -  Пользователь в сети
+2020-11-19 16:50:28 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@cb68b17 
+2020-11-19 16:50:28 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 16:50:28 INFO  NetworkMessageHandler:45 -  Пользователь в сети
+2020-11-19 16:50:28 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@11c7abfd 
+2020-11-19 16:50:28 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 16:50:28 INFO  NetworkMessageHandler:45 -  Пользователь в сети
+2020-11-19 16:50:28 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@79e4230 
+2020-11-19 16:50:28 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 16:50:28 INFO  NetworkMessageHandler:45 -  Пользователь в сети
+2020-11-19 16:50:28 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@e47f56f 
+2020-11-19 16:50:28 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 16:50:28 INFO  NetworkMessageHandler:45 -  Пользователь в сети
+2020-11-19 16:50:28 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@36912983 
+2020-11-19 16:50:28 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 16:50:29 INFO  NetworkMessageHandler:45 -  Пользователь в сети
+2020-11-19 16:50:29 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@1aa5f4ef 
+2020-11-19 16:50:29 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 16:50:29 INFO  NetworkMessageHandler:45 -  Пользователь в сети
+2020-11-19 16:50:29 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@6f5faa49 
+2020-11-19 16:50:29 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 16:50:29 INFO  NetworkMessageHandler:45 -  Пользователь в сети
+2020-11-19 16:50:29 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@5e82d640 
+2020-11-19 16:50:29 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 16:50:29 INFO  NetworkMessageHandler:45 -  Пользователь в сети
+2020-11-19 16:50:34 INFO  ClientHandler:67 - Client User1 disconnected
+2020-11-19 16:55:59 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0xc1e00f16, L:/127.0.0.1:8189 - R:/127.0.0.1:52026]) подключился
+2020-11-19 16:55:59 INFO  Network:53 - Клиент запущен
+2020-11-19 16:56:05 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@78d10c42 
+2020-11-19 16:56:05 INFO  MessageHandler:59 - Дериктория User1 существует
+2020-11-19 16:56:05 INFO  NetworkMessageHandler:64 - User Name: User1
+2020-11-19 16:56:05 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@4fa6d43 
+2020-11-19 16:56:05 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 16:56:06 INFO  NetworkMessageHandler:47 -  Пользователь в сети
+2020-11-19 16:56:10 INFO  ClientHandler:67 - Client User1 disconnected
+2020-11-19 17:00:57 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0x389e3f66, L:/127.0.0.1:8189 - R:/127.0.0.1:52062]) подключился
+2020-11-19 17:00:57 INFO  Network:53 - Клиент запущен
+2020-11-19 17:01:03 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@6d42d288 
+2020-11-19 17:01:03 INFO  MessageHandler:59 - Дериктория User1 существует
+2020-11-19 17:01:03 INFO  NetworkMessageHandler:64 - User Name: User1
+2020-11-19 17:01:06 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@7b018ae8 
+2020-11-19 17:01:06 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 17:01:06 INFO  NetworkMessageHandler:47 -  Пользователь в сети
+2020-11-19 17:01:11 INFO  ClientHandler:67 - Client User1 disconnected
+2020-11-19 17:01:18 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0xa461f65e, L:/127.0.0.1:8189 - R:/127.0.0.1:52085]) подключился
+2020-11-19 17:01:18 INFO  Network:53 - Клиент запущен
+2020-11-19 17:01:24 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@dce4b62 
+2020-11-19 17:01:24 INFO  MessageHandler:59 - Дериктория User1 существует
+2020-11-19 17:01:24 INFO  NetworkMessageHandler:64 - User Name: User1
+2020-11-19 17:01:29 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@6dceea44 
+2020-11-19 17:01:29 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 17:01:29 INFO  NetworkMessageHandler:47 -  Пользователь в сети
+2020-11-19 17:01:40 INFO  ClientHandler:67 - Client User1 disconnected
+2020-11-19 17:02:07 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0xa04f3eb8, L:/127.0.0.1:8189 - R:/127.0.0.1:52109]) подключился
+2020-11-19 17:02:07 INFO  Network:53 - Клиент запущен
+2020-11-19 17:02:13 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@7e7e2c05 
+2020-11-19 17:02:13 INFO  MessageHandler:59 - Дериктория User1 существует
+2020-11-19 17:02:13 INFO  NetworkMessageHandler:64 - User Name: User1
+2020-11-19 17:02:17 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@3009e05f 
+2020-11-19 17:02:17 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 17:02:17 INFO  NetworkMessageHandler:47 -  Пользователь в сети
+2020-11-19 17:02:34 INFO  ClientHandler:67 - Client User1 disconnected
+2020-11-19 17:03:56 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0x79812fbf, L:/127.0.0.1:8189 - R:/127.0.0.1:52136]) подключился
+2020-11-19 17:03:56 INFO  Network:53 - Клиент запущен
+2020-11-19 17:04:50 INFO  ClientHandler:67 - Client Клиента # 1 disconnected
+2020-11-19 17:04:56 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0xa1a142ec, L:/127.0.0.1:8189 - R:/127.0.0.1:52161]) подключился
+2020-11-19 17:04:56 INFO  Network:53 - Клиент запущен
+2020-11-19 17:05:02 INFO  ClientHandler:67 - Client Клиента # 1 disconnected
+2020-11-19 17:05:20 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0x24bd958e, L:/127.0.0.1:8189 - R:/127.0.0.1:52184]) подключился
+2020-11-19 17:05:20 INFO  Network:53 - Клиент запущен
+2020-11-19 17:05:22 INFO  ClientHandler:67 - Client Клиента # 1 disconnected
+2020-11-19 17:05:33 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0x54a4ee99, L:/127.0.0.1:8189 - R:/127.0.0.1:52207]) подключился
+2020-11-19 17:05:33 INFO  Network:53 - Клиент запущен
+2020-11-19 17:05:36 INFO  ClientHandler:67 - Client Клиента # 1 disconnected
+2020-11-19 17:05:45 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0x5b79b2ff, L:/127.0.0.1:8189 - R:/127.0.0.1:52229]) подключился
+2020-11-19 17:05:45 INFO  Network:53 - Клиент запущен
+2020-11-19 17:05:48 INFO  ClientHandler:67 - Client Клиента # 1 disconnected
+2020-11-19 17:05:57 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0xd8c8fb2e, L:/127.0.0.1:8189 - R:/127.0.0.1:52252]) подключился
+2020-11-19 17:05:57 INFO  Network:53 - Клиент запущен
+2020-11-19 17:06:00 INFO  ClientHandler:67 - Client Клиента # 1 disconnected
+2020-11-19 17:06:08 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0xbb61557c, L:/127.0.0.1:8189 - R:/127.0.0.1:52274]) подключился
+2020-11-19 17:06:08 INFO  Network:53 - Клиент запущен
+2020-11-19 17:06:33 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@59946da5 
+2020-11-19 17:06:33 INFO  MessageHandler:59 - Дериктория User1 существует
+2020-11-19 17:06:34 INFO  NetworkMessageHandler:64 - User Name: User1
+2020-11-19 17:06:35 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@70d0641a 
+2020-11-19 17:06:35 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 17:06:36 INFO  NetworkMessageHandler:47 -  Пользователь в сети
+2020-11-19 17:06:43 INFO  ClientHandler:67 - Client User1 disconnected
+2020-11-19 17:06:51 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0x132d82b2, L:/127.0.0.1:8189 - R:/127.0.0.1:52299]) подключился
+2020-11-19 17:06:51 INFO  Network:53 - Клиент запущен
+2020-11-19 17:06:54 INFO  ClientHandler:67 - Client Клиента # 1 disconnected
+2020-11-19 17:07:19 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0x16641b99, L:/127.0.0.1:8189 - R:/127.0.0.1:52321]) подключился
+2020-11-19 17:07:19 INFO  Network:53 - Клиент запущен
+2020-11-19 17:07:24 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@4092c894 
+2020-11-19 17:07:24 INFO  MessageHandler:59 - Дериктория User1 существует
+2020-11-19 17:07:24 INFO  NetworkMessageHandler:64 - User Name: User1
+2020-11-19 17:07:25 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@3116c0a2 
+2020-11-19 17:07:25 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 17:07:26 INFO  NetworkMessageHandler:47 -  Пользователь в сети
+2020-11-19 17:07:32 INFO  ClientHandler:67 - Client User1 disconnected
+2020-11-19 17:07:47 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0x499a6e76, L:/127.0.0.1:8189 - R:/127.0.0.1:52344]) подключился
+2020-11-19 17:07:47 INFO  Network:53 - Клиент запущен
+2020-11-19 17:07:53 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@67e03138 
+2020-11-19 17:07:53 INFO  MessageHandler:59 - Дериктория User1 существует
+2020-11-19 17:07:53 INFO  NetworkMessageHandler:64 - User Name: User1
+2020-11-19 17:07:59 INFO  ClientHandler:67 - Client User1 disconnected
+2020-11-19 17:08:05 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0xa406be88, L:/127.0.0.1:8189 - R:/127.0.0.1:52367]) подключился
+2020-11-19 17:08:05 INFO  Network:53 - Клиент запущен
+2020-11-19 17:08:12 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@42052ec3 
+2020-11-19 17:08:12 INFO  MessageHandler:59 - Дериктория User1 существует
+2020-11-19 17:08:12 INFO  NetworkMessageHandler:64 - User Name: User1
+2020-11-19 17:08:19 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@4a5a4f1b 
+2020-11-19 17:08:19 INFO  NetworkMessageHandler:76 - Полученное сообщение: User1
+2020-11-19 17:08:21 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@230914b4 
+2020-11-19 17:08:21 INFO  NetworkMessageHandler:76 - Полученное сообщение: User1\c.jpg
+2020-11-19 17:08:21 INFO  NetworkMessageHandler:76 - Полученное сообщение: User1\NewFolder\m3.jpeg
+2020-11-19 17:08:21 INFO  NetworkMessageHandler:76 - Полученное сообщение: User1\NewFolder\test\newFile.txt
+2020-11-19 17:08:21 INFO  NetworkMessageHandler:76 - Полученное сообщение: User1\NewFolder\test.txt
+2020-11-19 17:08:22 INFO  NetworkMessageHandler:76 - Полученное сообщение: User1\NewFolder\texr.txt
+2020-11-19 17:08:22 INFO  NetworkMessageHandler:76 - Полученное сообщение: User1\s.jpg
+2020-11-19 17:08:22 INFO  NetworkMessageHandler:76 - Полученное сообщение: User1\test.txt
+2020-11-19 17:08:22 INFO  NetworkMessageHandler:76 - Полученное сообщение: User1\u1.jpg
+2020-11-19 17:08:55 INFO  ClientHandler:67 - Client User1 disconnected
+2020-11-19 17:11:16 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0x29d1f01b, L:/127.0.0.1:8189 - R:/127.0.0.1:52399]) подключился
+2020-11-19 17:11:16 INFO  Network:53 - Клиент запущен
+2020-11-19 17:11:36 INFO  RegController:39 - /reg User1 User1
+2020-11-19 17:11:36 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@362373e 
+2020-11-19 17:11:36 INFO  MessageHandler:84 - /reg Login User1 занят
+2020-11-19 17:11:36 INFO  NetworkMessageHandler:57 -  Login User1 занят
+2020-11-19 17:11:41 INFO  RegController:39 - /reg User2 User1
+2020-11-19 17:11:41 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@2d0b9065 
+2020-11-19 17:11:41 INFO  MessageHandler:84 - /reg Login User2 занят
+2020-11-19 17:11:41 INFO  NetworkMessageHandler:57 -  Login User2 занят
+2020-11-19 17:12:27 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@5b6396ec 
+2020-11-19 17:12:27 INFO  MessageHandler:59 - Дериктория User1 существует
+2020-11-19 17:12:27 INFO  NetworkMessageHandler:64 - User Name: User1
+2020-11-19 17:15:46 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@69fff7c3 
+2020-11-19 17:15:46 INFO  NetworkMessageHandler:76 - Полученное сообщение: User1\c.jpg
+2020-11-19 17:15:46 INFO  NetworkMessageHandler:76 - Полученное сообщение: User1\NewFolder\m3.jpeg
+2020-11-19 17:15:46 INFO  NetworkMessageHandler:76 - Полученное сообщение: User1\NewFolder\test\newFile.txt
+2020-11-19 17:15:46 INFO  NetworkMessageHandler:76 - Полученное сообщение: User1\NewFolder\test.txt
+2020-11-19 17:15:47 INFO  NetworkMessageHandler:76 - Полученное сообщение: User1\NewFolder\texr.txt
+2020-11-19 17:15:47 INFO  NetworkMessageHandler:76 - Полученное сообщение: User1\s.jpg
+2020-11-19 17:15:47 INFO  NetworkMessageHandler:76 - Полученное сообщение: User1\test.txt
+2020-11-19 17:15:47 INFO  NetworkMessageHandler:76 - Полученное сообщение: User1\u1.jpg
+2020-11-19 17:16:37 INFO  ClientHandler:67 - Client User1 disconnected
+2020-11-19 17:21:26 INFO  Server:44 - Server Start
+2020-11-19 17:21:37 INFO  Network:53 - Клиент запущен
+2020-11-19 17:21:37 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0xf9e0c514, L:/127.0.0.1:8189 - R:/127.0.0.1:52470]) подключился
+2020-11-19 17:21:46 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@58764553 
+2020-11-19 17:21:47 INFO  MessageHandler:59 - Дериктория User1 существует
+2020-11-19 17:21:47 INFO  NetworkMessageHandler:64 - User Name: User1
+2020-11-19 17:21:51 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@1eb0307 
+2020-11-19 17:21:51 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 17:21:53 INFO  NetworkMessageHandler:47 -  Пользователь в сети
+2020-11-19 17:22:01 INFO  ClientHandler:61 - Удаленный хост принудительно разорвал существующее подключение
+2020-11-19 17:22:01 INFO  ClientHandler:68 - Client User1 disconnected
+2020-11-19 17:23:35 INFO  Server:42 - Server Start
+2020-11-19 17:23:44 INFO  Network:53 - Клиент запущен
+2020-11-19 17:23:44 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0xe9bc4697, L:/127.0.0.1:8189 - R:/127.0.0.1:52518]) подключился
+2020-11-19 17:23:51 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@58764553 
+2020-11-19 17:23:51 INFO  MessageHandler:59 - Дериктория User1 существует
+2020-11-19 17:23:52 INFO  NetworkMessageHandler:64 - User Name: User1
+2020-11-19 17:24:00 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@1eb0307 
+2020-11-19 17:24:00 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 17:24:01 INFO  NetworkMessageHandler:47 -  Пользователь в сети
+2020-11-19 17:24:06 INFO  ClientHandler:61 - [Ljava.lang.StackTraceElement;@5f290dfa
+2020-11-19 17:24:06 INFO  ClientHandler:68 - Client User1 disconnected
+2020-11-19 17:25:05 INFO  Server:42 - Server Start
+2020-11-19 17:25:13 INFO  Network:53 - Клиент запущен
+2020-11-19 17:25:13 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0xbd499303, L:/127.0.0.1:8189 - R:/127.0.0.1:52566]) подключился
+2020-11-19 17:25:22 INFO  MessageHandler:43 - Cистемное от Клиента # 1:packageMessage.MyMessage@4af38774 
+2020-11-19 17:25:23 INFO  MessageHandler:59 - Дериктория User1 существует
+2020-11-19 17:25:23 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@43ce6109 
+2020-11-19 17:25:23 INFO  MessageHandler:65 - /auth Пользователь в сети
+2020-11-19 17:25:23 INFO  NetworkMessageHandler:64 - User Name: User1
+2020-11-19 17:25:24 INFO  NetworkMessageHandler:47 -  Пользователь в сети
+2020-11-19 17:25:30 INFO  MessageHandler:43 - Cистемное от User1:packageMessage.MyMessage@47de7619 
+2020-11-19 17:25:30 INFO  NetworkMessageHandler:76 - Полученное сообщение: User1
+2020-11-19 17:25:34 INFO  ClientHandler:61 - Удаленный хост принудительно разорвал существующее подключение
+2020-11-19 17:25:34 INFO  ClientHandler:68 - Client User1 disconnected
+2020-11-19 17:33:46 INFO  Server:42 - Server Start
+2020-11-19 17:34:01 INFO  Network:53 - Клиент запущен
+2020-11-19 17:34:01 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0x5261ecab, L:/127.0.0.1:8189 - R:/127.0.0.1:52635]) подключился
+2020-11-19 17:34:09 INFO  MessageHandler:52 - Cистемное от Клиента # 1:packageMessage.MyMessage@58764553 
+2020-11-19 17:34:09 INFO  MessageHandler:68 - Дериктория User1 существует
+2020-11-19 17:34:09 INFO  MessageHandler:52 - Cистемное от User1:packageMessage.MyMessage@1eb0307 
+2020-11-19 17:34:09 INFO  MessageHandler:74 - /auth Пользователь в сети
+2020-11-19 17:34:10 INFO  NetworkMessageHandler:64 - User Name: User1
+2020-11-19 17:34:11 INFO  NetworkMessageHandler:47 -  Пользователь в сети
+2020-11-19 17:34:25 INFO  Controller:61 - File Send: C:\Users\User\Pictures\Bay\m3.jpeg
+2020-11-19 17:34:25 INFO  MessageHandler:278 - Сервер записал файл m3.jpeg
+2020-11-19 17:34:25 INFO  NetworkMessageHandler:76 - Полученное сообщение: Сервер записал файл m3.jpeg
+2020-11-19 17:35:00 INFO  Controller:61 - File Send: C:\Users\User\Pictures\Bay\m3.jpeg
+2020-11-19 17:35:00 INFO  MessageHandler:278 - Сервер записал файл m3.jpeg
+2020-11-19 17:35:00 INFO  NetworkMessageHandler:76 - Полученное сообщение: Сервер записал файл m3.jpeg
+2020-11-19 17:36:05 INFO  Controller:72 - Отправленное сообщение: /help
+2020-11-19 17:36:05 INFO  MessageHandler:52 - Cистемное от User1:packageMessage.MyMessage@e6024a9 
+2020-11-19 17:36:05 INFO  NetworkMessageHandler:76 - Полученное сообщение: 
+/touch name - создать текстовый файл с именем
+/mkdir name - создать директорию
+/cd name - перейти в папку
+/rm name - удалить файл по имени
+/copy src target скопировать файл из одного пути в другой
+/cat (name) - вывести в консоль содержимое файла
+/help - помошь
+/download - загрузка файла, пример: /download Server/s.jpg
+/clear - очистить окно
+/info - что находится в дериктории пример /info Server
+
+2020-11-19 17:36:24 INFO  MessageHandler:52 - Cистемное от User1:packageMessage.MyMessage@158f5070 
+2020-11-19 17:36:24 INFO  NetworkMessageHandler:76 - Полученное сообщение: User1
+2020-11-19 17:36:51 INFO  Controller:72 - Отправленное сообщение: /download User1/m3.jpeg
+2020-11-19 17:36:51 INFO  MessageHandler:52 - Cистемное от User1:packageMessage.MyMessage@74cbac4d 
+2020-11-19 17:36:51 INFO  NetworkMessageHandler:76 - Полученное сообщение: Файл не существует
+2020-11-19 17:37:02 INFO  Controller:72 - Отправленное сообщение: /download m3.jpeg
+2020-11-19 17:37:02 INFO  MessageHandler:52 - Cистемное от User1:packageMessage.MyMessage@60852b92 
+2020-11-19 17:37:02 INFO  NetworkMessageHandler:92 - Фаил Client/m3.jpegсохранен
+2020-11-19 17:39:04 WARN  DefaultChannelPipeline:1152 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.io.IOException: Удаленный хост принудительно разорвал существующее подключение
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1133)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:714)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:576)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+2020-11-19 17:39:06 INFO  Server:42 - Server Start
+2020-11-19 17:39:20 INFO  Network:53 - Клиент запущен
+2020-11-19 17:39:20 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0x80813e6d, L:/127.0.0.1:8189 - R:/127.0.0.1:52695]) подключился
+2020-11-19 17:39:39 INFO  MessageHandler:52 - Cистемное от Клиента # 1:packageMessage.MyMessage@4af38774 
+2020-11-19 17:39:40 INFO  MessageHandler:68 - Дериктория User1 существует
+2020-11-19 17:39:40 INFO  MessageHandler:52 - Cистемное от User1:packageMessage.MyMessage@43ce6109 
+2020-11-19 17:39:40 INFO  MessageHandler:74 - /auth Пользователь в сети
+2020-11-19 17:39:40 INFO  NetworkMessageHandler:76 - User Name: User1
+2020-11-19 17:39:41 INFO  NetworkMessageHandler:59 -  Пользователь в сети
+2020-11-19 17:40:05 INFO  Controller:72 - Отправленное сообщение: /download u1.jpg
+2020-11-19 17:40:05 INFO  MessageHandler:52 - Cистемное от User1:packageMessage.MyMessage@47de7619 
+2020-11-19 17:40:05 INFO  NetworkMessageHandler:104 - Фаил Client/u1.jpgсохранен
+2020-11-19 17:41:23 INFO  Network:53 - Клиент запущен
+2020-11-19 17:41:23 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0x2e067c37, L:/127.0.0.1:8189 - R:/127.0.0.1:52724]) подключился
+2020-11-19 17:44:22 INFO  ClientHandler:61 - Удаленный хост принудительно разорвал существующее подключение
+2020-11-19 17:44:22 INFO  ClientHandler:68 - Client Клиента # 1 disconnected
+2020-11-19 17:44:26 INFO  ClientHandler:61 - Удаленный хост принудительно разорвал существующее подключение
+2020-11-19 17:44:26 INFO  ClientHandler:68 - Client User1 disconnected
+2020-11-19 17:44:35 INFO  Server:42 - Server Start
+2020-11-19 17:44:44 INFO  Network:53 - Клиент запущен
+2020-11-19 17:44:44 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0x493dc73c, L:/127.0.0.1:8189 - R:/127.0.0.1:52775]) подключился
+2020-11-19 17:44:52 INFO  MessageHandler:52 - Cистемное от Клиента # 1:packageMessage.MyMessage@5e2acf4 
+2020-11-19 17:44:53 INFO  MessageHandler:68 - Дериктория User1 существует
+2020-11-19 17:44:53 INFO  MessageHandler:52 - Cистемное от User1:packageMessage.MyMessage@28b72c44 
+2020-11-19 17:44:53 INFO  MessageHandler:74 - /auth Пользователь в сети
+2020-11-19 17:44:53 INFO  NetworkMessageHandler:76 - User Name: User1
+2020-11-19 17:44:54 INFO  NetworkMessageHandler:59 -  Пользователь в сети
+2020-11-19 17:44:57 INFO  Controller:72 - Отправленное сообщение: 
+2020-11-19 17:44:57 INFO  NetworkMessageHandler:88 - Полученное сообщение: 
+
+2020-11-19 17:44:57 INFO  Controller:72 - Отправленное сообщение: 
+2020-11-19 17:44:58 INFO  NetworkMessageHandler:88 - Полученное сообщение: 
+
+2020-11-19 17:44:59 INFO  Controller:72 - Отправленное сообщение: gkl
+2020-11-19 17:44:59 INFO  NetworkMessageHandler:88 - Полученное сообщение: gkl
+
+2020-11-19 17:45:00 INFO  Controller:72 - Отправленное сообщение: gkl
+2020-11-19 17:45:00 INFO  NetworkMessageHandler:88 - Полученное сообщение: gkl
+
+2020-11-19 17:45:00 INFO  Controller:72 - Отправленное сообщение: gkl
+2020-11-19 17:45:00 INFO  NetworkMessageHandler:88 - Полученное сообщение: gkl
+
+2020-11-19 17:45:00 INFO  Controller:72 - Отправленное сообщение: gkl
+2020-11-19 17:45:00 INFO  NetworkMessageHandler:88 - Полученное сообщение: gkl
+
+2020-11-19 17:45:01 INFO  Controller:72 - Отправленное сообщение: gkl
+2020-11-19 17:45:01 INFO  NetworkMessageHandler:88 - Полученное сообщение: gkl
+
+2020-11-19 17:45:06 INFO  ClientHandler:61 - Удаленный хост принудительно разорвал существующее подключение
+2020-11-19 17:45:06 INFO  ClientHandler:68 - Client User1 disconnected
+2020-11-19 17:45:51 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0x939eb4f1, L:/127.0.0.1:8189 - R:/127.0.0.1:52801]) подключился
+2020-11-19 17:45:51 INFO  Network:53 - Клиент запущен
+2020-11-19 17:45:52 INFO  MessageHandler:52 - Cистемное от Клиента # 1:packageMessage.MyMessage@5b84cf51 
+2020-11-19 17:45:52 INFO  MessageHandler:83 - /auth  не существует
+2020-11-19 17:45:53 INFO  NetworkMessageHandler:59 -   не существует
+2020-11-19 17:45:53 INFO  MessageHandler:52 - Cистемное от Клиента # 1:packageMessage.MyMessage@2aefb818 
+2020-11-19 17:45:53 INFO  MessageHandler:83 - /auth  не существует
+2020-11-19 17:45:54 INFO  NetworkMessageHandler:59 -   не существует
+2020-11-19 17:45:54 INFO  MessageHandler:52 - Cистемное от Клиента # 1:packageMessage.MyMessage@52511967 
+2020-11-19 17:45:54 INFO  MessageHandler:83 - /auth  не существует
+2020-11-19 17:45:55 INFO  NetworkMessageHandler:59 -   не существует
+2020-11-19 17:45:55 INFO  MessageHandler:52 - Cистемное от Клиента # 1:packageMessage.MyMessage@29d1fdbf 
+2020-11-19 17:45:55 INFO  MessageHandler:83 - /auth  не существует
+2020-11-19 17:45:56 INFO  NetworkMessageHandler:59 -   не существует
+2020-11-19 17:46:01 INFO  MessageHandler:52 - Cистемное от Клиента # 1:packageMessage.MyMessage@32b9ec7 
+2020-11-19 17:46:01 INFO  MessageHandler:68 - Дериктория User1 существует
+2020-11-19 17:46:01 INFO  NetworkMessageHandler:76 - User Name: User1
+2020-11-19 17:46:27 INFO  ClientHandler:61 - Удаленный хост принудительно разорвал существующее подключение
+2020-11-19 17:46:27 INFO  ClientHandler:68 - Client User1 disconnected
+2020-11-20 09:31:34 INFO  Server:42 - Server Start
+2020-11-20 09:33:11 INFO  Network:53 - Клиент запущен
+2020-11-20 09:33:11 INFO  ClientHandler:47 - Клиент 1 ChannelHandlerContext(ClientHandler#0, [id: 0x0fef60e3, L:/127.0.0.1:8189 - R:/127.0.0.1:50403]) подключился
+2020-11-20 09:34:04 INFO  MessageHandler:52 - Cистемное от Клиента # 1:packageMessage.MyMessage@4af38774 
+2020-11-20 09:34:05 INFO  NetworkMessageHandler:76 - User Name: User1
+2020-11-20 09:34:07 INFO  MessageHandler:52 - Cистемное от User1:packageMessage.MyMessage@43ce6109 
+2020-11-20 09:34:07 INFO  MessageHandler:74 - /auth Пользователь в сети
+2020-11-20 09:34:09 INFO  NetworkMessageHandler:59 -  Пользователь в сети
+2020-11-20 09:34:43 INFO  ClientHandler:61 - Удаленный хост принудительно разорвал существующее подключение
+2020-11-20 09:34:43 INFO  ClientHandler:68 - Client User1 disconnected

@@ -1,0 +1,41 @@
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.GridPane?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.CheckMenuItem?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.AnchorPane?>
+<VBox fx:controller="packageClient.Controller"
+      xmlns:fx="http://javafx.com/fxml" alignment="center" >
+    <MenuBar> <Menu  text="File"  ><MenuItem fx:id="menuItemSendFile" onAction="#menuItemActionSendFile" text="Send File"></MenuItem>  </Menu>
+
+    </MenuBar>
+    <ListView fx:id="listView" editable="false"  VBox.vgrow="ALWAYS" />
+
+        <HBox >
+
+            <Button text="Список Файлов" onAction="#actionApdate"/>
+
+           <Button text="Место нахождения" onAction="#actionWhere" ></Button>
+<!--            <Button text="Вперед" ></Button>-->
+<!--            <Button text="Ок" ></Button>-->
+        </HBox>
+
+    <HBox>
+        <TextField fx:id="textFieldMessage" HBox.hgrow="ALWAYS" promptText="Введите команду или /help" />
+        <Button text="Отправить" onAction="#sendMessageAction" defaultButton="true"/>
+    </HBox>
+
+
+
+
+
+</VBox>
