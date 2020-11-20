@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="packageClient.AuthController"
+            >
+    <HBox>
+        <Label text="Login: " VBox.vgrow="ALWAYS"></Label>
+    </HBox>
+    <TextField fx:id="loginTextField" promptText="Логин..."></TextField>
+    <HBox>
+        <Label text="Password: " VBox.vgrow="ALWAYS"></Label>
+    </HBox>
+    <TextField fx:id="passTextField" promptText="Пароль..."></TextField>
+    <HBox alignment="BASELINE_RIGHT" spacing="130">
+
+        <Button fx:id="buttonReg" onAction="#actionReg" text="Регистрация"></Button>
+        <Button fx:id="buttonSend" onAction="#actionSend" text="ОК" defaultButton="true"></Button>
+
+    </HBox>
+    <HBox alignment="CENTER">
+        <Label fx:id="labelInfo"></Label>
+    </HBox>
+
+
+</VBox>
